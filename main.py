@@ -3,4 +3,4 @@ a = input()
 print("Число b = ")
 b = input()
 s = a + b
-print("Сумма a+b = ", s)
+print("Сумма a + b = ", s)
