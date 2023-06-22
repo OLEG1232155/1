@@ -1,6 +1,6 @@
-print("Число a = ")
+print("Число a=")
 a = input()
-print("Число b = ")
+print("Число b=")
 b = input()
 s = a + b
-print("Сумма a + b = ", s)
+print("Сумма a+b=", s)
